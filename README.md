@@ -59,7 +59,7 @@ python shoutout.py
 
 - Add your demo video link here (Google Drive, YouTube, etc.):
 
-[Demo Video](https://drive.google.com/drive/folders/1iqV9zuSOis9FShVJmKdB4gSGoMTntrf9?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1szaMvEJc-8Dgb61sPkv2gTOwI7jm-_Js/view?usp=drive_link)
 
 ## 👨‍💻 Author
 
